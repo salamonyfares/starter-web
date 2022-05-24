@@ -5,7 +5,8 @@ Adding a line for rebasing , more changes from myfeature branch
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos.
+Simple git practice
 
 ## Deployment
 
