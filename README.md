@@ -17,5 +17,5 @@ fork this repo and issue pull request for review
 give me a call
 
 ### Copyright
-2022 git training
+2022 git training All right reserved.
 
